@@ -1,0 +1,36 @@
+# Ignore Python virtual environments
+backend/venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE config files
+.vscode/
+.idea/
+
+# Node modules for frontend
+frontend/node_modules/
+
+# Build folders
+frontend/dist/
+build/
+*.log
+
+# Ignore ML model files (adjust based on what you use)
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.lib
+*.dll
+*.exe
