@@ -32,8 +32,8 @@ cd frontend
 # Install dependencies
 npm install
 
-# npm i react-router-dom
-# npm i axios
+npm i react-router-dom
+npm i axios
 
 # Start the development server
 npm run dev
